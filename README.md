@@ -10,9 +10,9 @@ This Paper is Accepted to The 13th International Joint Conference on Natural Lan
 
 # Citation
 
-@article{kumarage2023j,
+`@article{kumarage2023j,
   title={J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News},
   author={Kumarage, Tharindu and Bhattacharjee, Amrita and Padejski, Djordje and Roschke, Kristy and Gillmor, Dan and Ruston, Scott and Liu, Huan and Garland, Joshua},
   journal={arXiv preprint arXiv:2309.03164},
   year={2023}
-}
+}`
